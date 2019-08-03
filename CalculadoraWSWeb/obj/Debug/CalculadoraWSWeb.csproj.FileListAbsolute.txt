@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\CalculadoraWSWeb\bin\CalculadoraWSWeb.dll.config
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\CalculadoraWSWeb\bin\CalculadoraWSWeb.dll
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\CalculadoraWSWeb\bin\CalculadoraWSWeb.pdb
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\CalculadoraWSWeb\obj\Debug\CalculadoraWSWeb.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\CalculadoraWSWeb\obj\Debug\CalculadoraWSWeb.dll
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\CalculadoraWSWeb\obj\Debug\CalculadoraWSWeb.pdb
