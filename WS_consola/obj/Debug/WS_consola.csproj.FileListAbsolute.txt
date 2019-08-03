@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\WS_consola\obj\Debug\WS_consola.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\WS_consola\bin\Debug\WS_consola.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\WS_consola\bin\Debug\WS_consola.exe
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\WS_consola\bin\Debug\WS_consola.pdb
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\WS_consola\obj\Debug\WS_consola.exe
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\WS_consola\obj\Debug\WS_consola.pdb
