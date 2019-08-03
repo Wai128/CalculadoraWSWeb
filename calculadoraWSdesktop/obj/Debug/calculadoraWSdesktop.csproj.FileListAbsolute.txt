@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\bin\Debug\calculadoraWSdesktop.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\bin\Debug\calculadoraWSdesktop.exe
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\bin\Debug\calculadoraWSdesktop.pdb
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\obj\Debug\calculadoraWSdesktop.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\obj\Debug\calculadoraWSdesktop.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\obj\Debug\calculadoraWSdesktop.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\obj\Debug\calculadoraWSdesktop.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\obj\Debug\calculadoraWSdesktop.exe
+c:\users\pc\documents\visual studio 2013\Projects\CalculadoraWSWeb\calculadoraWSdesktop\obj\Debug\calculadoraWSdesktop.pdb
